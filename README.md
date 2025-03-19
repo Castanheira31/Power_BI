@@ -1,2 +1,36 @@
 # Power BI
-Repositório com alguns dos meus trabalhos em Business Intelligence.
+# Dashboard de Análise de Clientes e Vendas
+
+Este repositório contém um **dashboard** desenvolvido em [Power BI / ferramenta de visualização] para analisar dados de clientes, vendas e campanhas de marketing. 
+
+## Visão Geral
+- **Visão Geral de Clientes e Vendas**: apresenta indicadores-chave como total de clientes, compras online/lojas/descontos/catálogos e o salário médio anual.
+- **Análise de Comportamento do Cliente**: investiga a relação entre o salário e o total gasto, destacando a influência do estado civil (solteiro, casado, divorciado) e do nível de escolaridade (superior, mestrado, doutorado, etc.) no padrão de consumo.
+- **Análise de Desempenho de Campanhas**: mostra a taxa de adesão dos clientes às campanhas, distribuída por fatores como escolaridade e número de filhos em casa, permitindo insights sobre o perfil do consumidor que compra vs. não compra.
+- **Análise de Gastos por País e Ano**: compara gastos por categoria (alimentos, eletrônicos, vestuário, etc.) em diferentes países (Brasil, EUA, Espanha, etc.) e ao longo dos anos, mostrando tendências de crescimento ou redução nos gastos.
+
+## Principais Recursos
+- **Filtros Interativos**: É possível filtrar por país, ano, estado civil, escolaridade e outras variáveis, para aprofundar a análise em segmentos específicos.
+- **Visualizações Dinâmicas**: Gráficos de barras, linhas e dispersão (scatter plot) para relacionar salário e gastos, além de tabelas e indicadores numéricos (cards) para resumos gerais.
+- **Insights Acionáveis**: Identifica correlações relevantes, como a influência do salário e estado civil no gasto total, auxiliando na tomada de decisões estratégicas (por exemplo, direcionar campanhas para segmentos específicos).
+
+## Como Executar
+1. Faça o download ou clone este repositório.
+2. Abra o arquivo `.pbix` (ou equivalente, se houver) no Power BI Desktop (ou ferramenta utilizada).
+3. Conecte os dados se necessário (verificar credenciais e caminhos de arquivo).
+4. Interaja com os visuais e filtros para explorar diferentes perspectivas.
+
+## Dados
+- Os dados utilizados foram extraídos de [especifique a fonte, se for fictícia, avise que se trata de dados simulados].
+- Principais colunas/tabelas: **Clientes** (ID, país, estado civil, escolaridade, etc.), **Compras** (tipo de compra, data, valor gasto, desconto, etc.).
+
+## Observações
+- Este projeto foi desenvolvido para demonstrar técnicas de **limpeza de dados**, **ETL** e **visualização**. 
+- Todos os valores e registros são meramente ilustrativos (se forem dados fictícios).
+
+## Licença
+- Informe aqui se existe alguma licença específica ou direitos de uso. Caso não haja, use a [licença MIT](https://opensource.org/licenses/MIT) ou declare que são dados fictícios de uso livre.
+
+---
+
+Sinta-se à vontade para ajustar ou complementar o README com mais detalhes sobre **processo de ETL, modelagem de dados, análises estatísticas ou próximas etapas** do projeto.
