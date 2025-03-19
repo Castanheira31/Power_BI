@@ -20,10 +20,6 @@ Este repositório contém um **dashboard** desenvolvido em [Power BI / ferrament
 3. Conecte os dados se necessário (verificar credenciais e caminhos de arquivo).
 4. Interaja com os visuais e filtros para explorar diferentes perspectivas.
 
-## Dados
-- Os dados utilizados foram extraídos de [especifique a fonte, se for fictícia, avise que se trata de dados simulados].
-- Principais colunas/tabelas: **Clientes** (ID, país, estado civil, escolaridade, etc.), **Compras** (tipo de compra, data, valor gasto, desconto, etc.).
-
 ## Observações
 - Este projeto foi desenvolvido para demonstrar técnicas de **limpeza de dados**, **ETL** e **visualização**. 
 - Todos os valores e registros são meramente ilustrativos.
