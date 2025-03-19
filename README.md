@@ -26,11 +26,4 @@ Este repositório contém um **dashboard** desenvolvido em [Power BI / ferrament
 
 ## Observações
 - Este projeto foi desenvolvido para demonstrar técnicas de **limpeza de dados**, **ETL** e **visualização**. 
-- Todos os valores e registros são meramente ilustrativos (se forem dados fictícios).
-
-## Licença
-- Informe aqui se existe alguma licença específica ou direitos de uso. Caso não haja, use a [licença MIT](https://opensource.org/licenses/MIT) ou declare que são dados fictícios de uso livre.
-
----
-
-Sinta-se à vontade para ajustar ou complementar o README com mais detalhes sobre **processo de ETL, modelagem de dados, análises estatísticas ou próximas etapas** do projeto.
+- Todos os valores e registros são meramente ilustrativos.
